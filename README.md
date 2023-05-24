@@ -1,2 +1,2 @@
 # Resume
-A simple personal resume 
+A simple personal resume using HTML only !
